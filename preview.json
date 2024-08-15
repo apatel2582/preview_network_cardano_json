@@ -602,7 +602,7 @@
     "maxBlockHeaderSize": 1100,
     "maxCollateralInputs": 3,
     "maxTxExecutionUnits": {
-      "memory": 140000000,
+      "memory": 500000000,
       "steps": 10000000000
     },
     "maxTxSize": 16384,
