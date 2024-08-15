@@ -424,7 +424,7 @@
         "verifyEd25519Signature-cpu-arguments-slope": 14333,
         "verifyEd25519Signature-memory-arguments": 10
       },
-      "PlutusScriptV1": {
+      "PlutusScriptV2": {
         "addInteger-cpu-arguments-intercept": 100788,
         "addInteger-cpu-arguments-slope": 420,
         "addInteger-memory-arguments-intercept": 1,
