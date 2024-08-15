@@ -644,9 +644,9 @@
     "utxoCostPerByte": 4310
   },
   "latestTip": {
-    "epoch": 440,
-    "hash": "4a84377e54da8b2b09610ff28e2908464589153add346490b48ef74393e43c1c",
-    "slot": 38073978,
-    "time": 1704729978000
+    "epoch": 660,
+    "hash": "25d1aa0dac78c4b63aa1bab0099c9ac4f124623a3996e46fd4b3b9a859b9786e",
+    "slot": 57040244,
+    "time": 1723681844000
   }
 }
