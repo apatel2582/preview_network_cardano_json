@@ -264,7 +264,7 @@
   "latestParams": {
     "collateralPercentage": 150,
     "costModels": {
-      "PlutusV1": {
+      "PlutusScriptV1": {
         "addInteger-cpu-arguments-intercept": 100788,
         "addInteger-cpu-arguments-slope": 420,
         "addInteger-memory-arguments-intercept": 1,
@@ -432,7 +432,7 @@
         "verifyEd25519Signature-cpu-arguments-slope": 14333,
         "verifyEd25519Signature-memory-arguments": 10
       },
-      "PlutusV2": {
+      "PlutusScriptV2": {
         "addInteger-cpu-arguments-intercept": 100788,
         "addInteger-cpu-arguments-slope": 420,
         "addInteger-memory-arguments-intercept": 1,
